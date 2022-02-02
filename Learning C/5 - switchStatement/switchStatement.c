@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(void){
     int i = 2;
+    //Like an if else statement.
     switch (i) {
         case 1:
             printf("i = %d = 1", i);
