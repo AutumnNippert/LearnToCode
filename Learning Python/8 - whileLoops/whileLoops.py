@@ -1,8 +1,5 @@
 #While loops loop until the condition inside the parentheses is false
 
-import string
-
-
 i = 1
 #Do the while until i is less than or equal to 5
 while(i <= 5):
